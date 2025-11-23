@@ -4,8 +4,7 @@ C:.
 │   package.json
 │
 └───src
-    ├───assets
-    │   └─── (images, css, js, etc.)
+    |
     └───templates
         │   index.njk
         │   about.njk
